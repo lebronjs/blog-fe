@@ -44,7 +44,7 @@ Web浏览器只是ECMAScript实现的宿主环境之一。宿主环境不仅提�
 
 ## JavaScript数据类型
 
-从属于ECMAScript规范定义。从技术角度讲，`函数在ECMAScript中是对象，不是一种数据结构`。（笔者注：所以js语言可以很好的实践函数式编程思想。关于函数式编程思想可以看笔者另外一篇笔记：[函数式编程](../react/function-program.md)）
+从属于ECMAScript规范定义。从技术角度讲，`函数在ECMAScript中是对象，不是一种数据结构`。
 
 * undefined
 * null

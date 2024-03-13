@@ -39,7 +39,7 @@ for (let key in obj) {
 
 ## for of
 
-ES6引入的新语法。在[可迭代对象](Iteration_protocols)（包括 Array，Map，Set，String，TypedArray，arguments对象，NodeList对象）上创建一个迭代循环,调用自定义迭代钩子，并为每个不同属性的值执行语句。
+ES6引入的新语法。在可迭代对象（包括 Array，Map，Set，String，TypedArray，arguments对象，NodeList对象）上创建一个迭代循环,调用自定义迭代钩子，并为每个不同属性的值执行语句。
 
 `Object对象不是可迭代对象，故for of 不支持。`for of有个很大的特点是支持数组的break中断。
 

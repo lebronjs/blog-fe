@@ -117,7 +117,7 @@ function BFS_By_Queue(root) {
 
 ## 4. 思考题
 
-思考题： Node节点变为{ val, children} （更符合现实案例）
+思考题： Node节点变为`{ val, children}` （更符合现实案例）
 
 // 基于变种队列的深度优先搜索：（得益于js语言 array数组同时集成了队列和栈）
 ``` js

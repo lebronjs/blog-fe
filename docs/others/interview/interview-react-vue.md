@@ -55,8 +55,6 @@ diff算法（负责将当前的VDOM与旧的VDOM进行比较，并将差异修�
 
 ## 5. Vue Slot原理
 
-[Vue slot源码解析](../vue-code-slot.md)
-
 `slot本质是把app父组件生成的vnode/function，延迟到layout子组件渲染。`
 
 ## 6. Vuex原理
